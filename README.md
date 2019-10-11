@@ -1,2 +1,2 @@
 # AndroidWorkshop
-Mini Projects on Android.
+My First Android Application
